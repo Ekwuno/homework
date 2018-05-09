@@ -1,0 +1,162 @@
+header,footer{
+    background-color: black;
+    height:  100px;
+
+}
+
+.all{
+    width: 1000px;
+    margin: auto;
+}
+
+.row1{
+    width: 100%;
+    height: 200px;
+    
+
+
+    
+}
+.col-1{
+    width: 30%;
+    display: inline-block;
+    background-color: rgb(90, 89, 89);
+    vertical-align: top;
+    height: 270px;
+}
+.col-2{
+    width: 60%;
+    display: inline-block;
+    height: 440px;
+    
+}
+
+#row-2{
+    width: 100%;
+    margin-top: 10px;
+    vertical-align: top;
+}
+#one{
+    width: 40%;
+    display: inline-block;
+    
+    background-color: rgb(90, 89, 89);
+    height: 50px;
+    
+
+}
+#two{
+    width: 50%;
+    display: inline-block;
+    background-color: rgb(90, 89, 89);
+    height: 50px;
+    
+}
+#row-3{
+    width: 100%;
+}
+.col11{
+    width:24%;
+    display: inline-block;
+    background-color: rgb(90, 89, 89);
+    height: 100px;
+}
+#row-1{
+    background-color: rgb(90, 89, 89);
+    width: 90%;
+    height: 100px;
+
+
+    
+}
+
+.row2{
+    width: 100%;
+    margin-top: 10px;
+}
+.col22{
+    width: 30%;
+    background-color: rgb(146, 146, 146);
+    display: inline-block;
+    height: 200px;
+    vertical-align: top;
+    
+    
+    
+    
+}
+.cool{
+    width: 100%;
+    background-color: rgb(34, 34, 34);
+    height: 50px;
+}
+.cool1{
+    width: 100%;
+    background-color:  rgb(82, 82, 82);
+    height: 50px;
+}
+.cool2{
+    width: 100%;
+    background-color:  rgb(34, 34, 34);
+    height: 50px;
+}
+.cool3{
+    width: 100%;
+    background-color:  rgb(82, 82, 82);
+    height: 50px;
+}
+.cool4{
+    width: 100%;
+    background-color:  rgb(34, 34, 34);
+    height: 50px;
+}
+.cool5{
+    width: 100%;
+    background-color:  rgb(169, 206, 38);
+    height: 50px;
+}
+
+.col23{
+    width:60%;
+    display: inline-block;
+    background-color: rgb(146, 146, 146);
+    height: 250px;
+    
+    
+}
+.row3{
+    width: 100%;
+}
+.col55{
+    width: 30%;
+    background-color: rgb(252, 247, 247);
+    display: inline-block;
+    vertical-align: top;
+}
+.col66{
+    width:60%;
+    
+    display: inline-block;
+}
+.colo{
+    width: 50%;
+    display: inline-block;
+    background-color: rgb(90, 89, 89);
+    height: 150px;
+}
+.cole{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(90, 89, 89);
+    height: 150px;
+}
+.row202{
+    width: 100%;
+}
+.end{
+    background-color: rgb(90, 89, 89);
+    height: 100px;
+    width: 
+    
+}
